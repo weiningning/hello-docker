@@ -1,3 +1,10 @@
+/**
+* @file: description
+* @author: weiningning
+* @Date: 1985-10-26 16:15:00
+* @LastEditors: weiningning
+* @LastEditTime: 2020-09-30 18:47:43
+ */
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -10,14 +17,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       <h2>中秋节快乐</h2> 
+       <h2>国庆节快乐</h2> 
       </header>
     </div>
   );
