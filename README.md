@@ -1,3 +1,6 @@
+https://travis-ci.com/weiningning/hello-docker.svg?branch=master
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
